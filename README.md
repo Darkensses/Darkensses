@@ -18,7 +18,7 @@ QA Automation Specialist at [Softtek](https://www.softtek.com).
 - Basic/Intermediate concepts about graphics, `GLSL` and shaders.
 - How to patch a PSX game using a hex editor and `javascript`.
 - Why I hate `java` so much that I work on it most of the time lol.
-- Micro-generes music and underground (or at least not so well known) artists to discover new music.
+- Musical micro-generes and underground (or at least not so well known) artists to discover new music.
 
 ### 🔊 Earworm
 [Ca7riel & Paco Amoroso: Tiny Desk Concert](https://www.youtube.com/watch?v=9kqnsoY94L8)
