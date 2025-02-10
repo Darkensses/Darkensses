@@ -4,7 +4,9 @@
 
 <p align="center">
 <sup>
-I'm being overwhelmed by the sheer number of attacks, pure and simple... Damn you, Frieren. How did you train this girl?
+<i>
+« I'm being overwhelmed by the sheer number of attacks, pure and simple... Damn you, Frieren. How did you train this girl? »
+</i>
 </sup>
 </p>
 
